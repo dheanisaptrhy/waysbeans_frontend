@@ -1,0 +1,166 @@
+* {
+    font-family: "Avenir", Helvetica, sans-serif;
+}
+
+.headingTitle {
+    color: #613D2B;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+.headingBlack{
+    color:black;
+    font-weight: 700;
+}
+
+.card {
+    width: 14rem;
+    margin-top: 20px;
+    margin-right: 5px;
+    background-color: #F6E6DA;
+    color: #613D2B;
+}
+
+.btnActionDelete {
+    background-color: #FF0742;
+    border: none;
+    border-radius: 5px;
+    width: 45%;
+    padding: 5px 15px;
+    color: white;
+}
+
+.btnActionEdit {
+    background-color: #56C05A;
+    width: 45%;
+    border-radius: 5px;
+    margin-right: 20px;
+    border: none;
+    padding: 5px 15px;
+    color: white;
+}
+
+.btnActionAdd {
+    background-color: #613D2B;
+    width: 100%;
+    border-radius: 5px;
+    margin-right: 20px;
+    border: none;
+    padding: 5px 15px;
+    color: white;
+}
+
+.input {
+    width: 100%;
+    border: 3px solid #613D2B;
+    border-radius: 5px;
+    background-color: #613D2B40;
+    color: #613D2B80;
+    margin-top: 15px;
+    padding: 6px 10px;
+}
+
+.button {
+    margin: 15px 0;
+    width: 50%;
+    padding: 8px 0;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-color: #613D2B;
+}
+
+.btnActionUpload {
+    width: 11rem;
+    border: 3px solid #613D2B;
+    border-radius: 5px;
+    background-color: #613D2B40;
+    color: #613D2B80;
+    margin-top: 15px;
+    padding: 6px 10px;
+}
+
+.textYellow {
+    color: #FF9900;
+}
+
+.textRed {
+    color: #FF0742;
+}
+
+.textGreen {
+    color: #3BB54A;
+}
+
+.textBlue {
+    color: #00D1FF;
+}
+
+.textBrown {
+    color: #613d2b;
+}
+
+.buttonBorderless {
+    border: none;
+    background-color: transparent;
+}
+
+.miniInput {
+    background-color: #613D2B40;
+    border: none;
+    color: #613D2B;
+    width: 30px;
+    height: 20px;
+}
+
+.miniPict {
+    max-width: 150px;
+    max-height: 150px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.btnNo{
+    background-color: #FF0742;
+    border: none;
+    width:7rem;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color:white;
+}
+.btnYes{
+    background-color: #56C05A;
+    border-radius: 5px;
+    width:7rem;
+    margin-right: 20px;
+    border: none;
+    padding: 5px 15px;
+    color:white;
+}
+
+.chatBoxBuyer {
+    padding: 10px;
+    background-color: white;
+}
+
+.chatBoxSeller {
+    padding: 10px;
+    color:black;
+    background-color: white;
+}
+
+.contactName{
+    font-weight: 700;
+    color: black;
+}
+.text{
+    color:black;
+}
+
+.inputMessage{
+    padding: 20px;
+    width: 100%;
+    background-color: #C4C4C4;
+    color:white;
+    border: none;
+    border-radius: 5px;
+}
